@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="t" size="1.000000 0.754386" />
+    <ImageTarget name="7" size="1.000000 0.561873" />
+    <ImageTarget name="3" size="1.000000 1.335052" />
+    <ImageTarget name="2" size="1.000000 0.875000" />
+    <ImageTarget name="io" size="1.000000 1.000000" />
+    <ImageTarget name="ww" size="1.000000 1.000000" />
+    <ImageTarget name="images" size="1.000000 1.000000" />
+    <ImageTarget name="ce35b29333c9fae96b8937723796f7c4" size="1.000000 1.000000" />
     <ImageTarget name="ss" size="1.000000 0.509766" />
     <ImageTarget name="jj" size="1.000000 1.000000" />
     <ImageTarget name="descarga" size="1.000000 0.762646" />
