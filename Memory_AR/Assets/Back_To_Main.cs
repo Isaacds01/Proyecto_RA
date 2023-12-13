@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Go_to_Creditos : MonoBehaviour
+public class Back_To_Main : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -11,13 +11,13 @@ public class Go_to_Creditos : MonoBehaviour
         
     }
 
-    // Update is called once per frame 
+    // Update is called once per frame
     void Update()
     {
         
     }
-    public void Vea_Creditos()
+     public void SceneMain()
     {
-        SceneManager.LoadScene("Creditos");
+        SceneManager.LoadScene("MainMenu");
     }
 }
